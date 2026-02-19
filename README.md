@@ -7,7 +7,7 @@
 **Team Members:**
 
 * **Chinmay Soni** – Project Lead & PPT  
-* **Gaurav**  – Data Lead  
+* **Gaurav Meena**  – Data Lead  
 * **Kavya**– Analysis & Strategy Lead  
 * **Harshitha** – Dashboard Lead  
 * **Akshay Yelakanti**– Quality Lead & Report Writer  
@@ -170,6 +170,6 @@ Group 12’s analysis of 13,000 records confirms that **Credit Grade** and **DTI
 | **Harshitha** |  | ✅ | ✅ |✅  |  | ✅ | **Dashboard Lead** |
 | **Akshay**  |  | ✅ | ✅ |  | ✅ |  | **Quality Lead** |
 | **Jashvitha** |  | ✅ | ✅ |  |  |  | **Analysis Lead** |
-| **Gaurav** |  | ✅ | ✅ | ✅ |  |  | **Data Lead** |
+| **Gaurav Meena** |  | ✅ | ✅ | ✅ |  |  | **Data Lead** |
 | **Kavya** | ✅ | ✅ |  | ✅ |  |  | **Strategy Lead** |
 
