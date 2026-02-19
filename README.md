@@ -170,6 +170,6 @@ Group 12’s analysis of 13,000 records confirms that **Credit Grade** and **DTI
 | **Harshitha** |  | ✅ | ✅ |✅  |  | ✅ | **Dashboard Lead** |
 | **Akshay**  |  | ✅ | ✅ |  | ✅ |  | **Quality Lead** |
 | **Jashvitha** |  | ✅ | ✅ |  |  |  | **Analysis Lead** |
-| **Gaurav** |  | ✅ | ✅ |  |  |  | **Data Lead** |
+| **Gaurav** |  | ✅ | ✅ | ✅ |  |  | **Data Lead** |
 | **Kavya** | ✅ | ✅ |  | ✅ |  |  | **Strategy Lead** |
 
