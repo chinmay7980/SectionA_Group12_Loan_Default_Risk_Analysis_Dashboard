@@ -10,7 +10,7 @@
 * **Gaurav Meena**  – Data Lead  
 * **Kavya**– Analysis & Strategy Lead  
 * **Harshitha** – Dashboard Lead  
-* **Akshay Yelakanti**– Quality Lead & Report Writer  
+* **Akshay Yelakant**– Quality Lead & Report Writer  
 * **Jashvitha** – Strategy Lead
 
 ### **1\. Executive Summary**
@@ -168,7 +168,7 @@ Group 12’s analysis of 13,000 records confirms that **Credit Grade** and **DTI
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Chinmay** | ✅ | ✅ | ✅ |  |  | ✅ | **Project Lead** |
 | **Harshitha** |  | ✅ | ✅ |✅  |  | ✅ | **Dashboard Lead** |
-| **Akshay**  |  | ✅ | ✅ |  | ✅ |  | **Quality Lead** |
+| **Akshay Y**  |  | ✅ | ✅ |  | ✅ |  | **Quality Lead** |
 | **Jashvitha** |  | ✅ | ✅ |  |  |  | **Analysis Lead** |
 | **Gaurav Meena** |  | ✅ | ✅ | ✅ |  |  | **Data Lead** |
 | **Kavya** | ✅ | ✅ |  | ✅ |  |  | **Strategy Lead** |
