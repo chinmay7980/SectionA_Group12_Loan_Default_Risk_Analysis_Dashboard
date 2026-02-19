@@ -10,7 +10,7 @@
 * **Gaurav Meena**  – Data Lead  
 * **Kavya**– Analysis & Strategy Lead  
 * **Harshitha** – Dashboard Lead  
-* **Akshay Yelakant**– Quality Lead & Report Writer  
+* **Akshay Y**– Quality Lead & Report Writer  
 * **Jashvitha** – Strategy Lead
 
 ### **1\. Executive Summary**
